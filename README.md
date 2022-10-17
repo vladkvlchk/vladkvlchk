@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vladkvlchk
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning js, react, redux toolkit, typescript, node.js
 - 💞️ I’m looking for first commercial experience
 - 📫 My telegram: @vlad_kvlchk
