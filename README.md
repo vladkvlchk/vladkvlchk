@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vladkvlchk
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning js, react, redux toolkit, typescript, node.js
-- 💞️ I’m looking for first commercial experience
+- 🌱 I’m currently learning js, react, redux toolkit, typescript, node.js, next
+- 💞️ I’m looking for my first commercial experience
 - 📫 My telegram: @vlad_kvlchk
 
 <!---
